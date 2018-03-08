@@ -1,0 +1,24 @@
+﻿<style type='text/css'>
+	img{
+		width:100%!important;visibility: visible!important;
+	}
+    html{
+		display:block!important;
+	} 
+	body{
+		width: initial!important
+	} 
+	p{
+		font-size: initial!important;
+		line-height: initial!important;
+	}
+	/*百家号*/
+	div.mainContent{
+		height: initial!important;
+	} 
+	/*网易新闻*/
+	main article div.content .page{
+		display:block!important
+	} 
+	
+</style>
