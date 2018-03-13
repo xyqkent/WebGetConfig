@@ -2,5 +2,6 @@
   {"tag":"[class*=container-new-article],[class*=share-card-container],#bytedance-ba-cid-iframe,[class*=unfold-field],div.info,div.new-style-test-article-author","comment":"今日头条"},
   {"tag":"div.globaldiv[class~=comments|today_hot|menuList|relateWords|nopad],div.imgglobal,div.fontAdapter,div.shareAdapter","comment":"腾讯新闻"},
   {"tag":"div.outmargin,div.packupButton,div.newVersion","comment":"百度百家号"},
-  {"tag":"mainsection.article_comment,maindiv.relative_doc,maindiv.hot_news,div.doc-footer-wrapper,maindiv.footer","comment":"网易新闻"}
+  {"tag":"mainsection.article_comment,maindiv.relative_doc,maindiv.hot_news,div.doc-footer-wrapper,maindiv.footer","comment":"网易新闻"},
+  {"tag":"div.top-bar-outer,div.m-feed-share-recommend","comment":"悟空新闻"}
 ]
