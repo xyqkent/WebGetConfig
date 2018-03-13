@@ -20,5 +20,9 @@
 	main article div.content .page{
 		display:block!important
 	} 
+	/*悟空新闻*/
+	article.content{
+		max-height:initial!important
+	}
 	
 </style>
