@@ -1,4 +1,6 @@
-﻿[
+{
+  "Filters":[
   {"or":"<script.*?>[\\s\\S]*?</script>","re":""},
   {"or":"!important","re":""}
 ]
+}
